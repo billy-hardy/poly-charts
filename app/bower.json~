@@ -1,0 +1,21 @@
+{
+  "name": "poly-charts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/billy-hardy/poly-charts",
+  "authors": [
+    "Billy Hardy <billy92@gmail.com>"
+  ],
+  "description": "Polymer web component charts",
+  "keywords": [
+    "polymer",
+    "charts"
+  ],
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
